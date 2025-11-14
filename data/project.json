@@ -64,10 +64,6 @@
           "category": "Type"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Poetry Readin"
-        },
-        {
           "category": "Type",
           "tag": "Transcript"
         },
@@ -78,7 +74,7 @@
       ]
     },
     "created_at": "2025-11-14T20:07:34.075Z",
-    "updated_at": "2025-11-14T20:46:22.937Z",
+    "updated_at": "2025-11-14T20:52:49.778Z",
     "generate_pages_site": true
   },
   "annotations": {},
