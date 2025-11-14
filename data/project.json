@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "tanyaclement",
+    "is_private": false,
+    "title": "Anne Sexton, Sweetbriar College, 1966",
+    "description": "This presentation by Tanya Clement includes a recording of Anne Sexton's visit to a class at Sweetbriar College in 1966. The recording is held as part of the Anne Sexton Papers at the Harry Ransom Center at the University of Texas, Austin. This presentation appears in the article 'Listen Slow: LISTEN SLOW: Researching Anne Sexton putting poetry her way' in the October 8, 2020 issue of the Ransom Center Magazine.",
+    "language": "en",
+    "slug": "sexton-sweetbriar-1966",
+    "creator": "tanyaclement",
+    "authors": "Tanya Clement, editor",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-11-14T20:07:34.075Z",
+    "updated_at": "2025-11-14T20:07:34.075Z"
   }
 }
