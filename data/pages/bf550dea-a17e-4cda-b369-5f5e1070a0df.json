@@ -4,39 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This recording of Pulitzer Prize-winning poet Anne Sexton",
-          "link": "https://tanyaclement.github.io/sexton-sweetbriar-1966/events/anne-sexton-class-visit/"
-        },
-        {
-          "text": " includes her visit to a class at Sweetbriar College in 1966. The recording is held as part of the Anne Sexton Papers at the Harry Ransom Center at the University of Texas, Austin. It has been published as part of "
-        },
-        {
-          "type": "link",
-          "url": "https://tanyaclement.org/",
-          "children": [
-            {
-              "text": "Tanya Clement"
-            }
-          ]
-        },
-        {
-          "text": "'s article on researching Anne Sexton's audio recordings in '"
-        },
-        {
-          "type": "link",
-          "url": "https://sites.utexas.edu/ransomcentermagazine/2020/10/08/listen-slow-researching-anne-sexton-putting-poetry-her-way/",
-          "children": [
-            {
-              "text": "Listen Slow: LISTEN SLOW: Researching Anne Sexton putting poetry her way"
-            }
-          ]
-        },
-        {
-          "text": "' in the October 8, 2020 issue of the "
-        },
-        {
-          "text": "Ransom Center Magazine.",
-          "italic": true
+          "italic": true,
+          "text": ""
         }
       ]
     },
@@ -51,9 +20,94 @@
           "type": "column",
           "children": [
             {
-              "text": ""
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://sites.utexas.edu/ransomcentermagazine/files/2020/10/MS03791_SextonA_R0084_003.jpg",
+              "caption": "Reel-to-reel audio recording of Pulitzer Prize-winning poet Anne Sexton at Sweet Briar College, 1966. Anne Sexton Papers 1912-1996, R 0084, Harry Ransom Center.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "type": "link",
+                  "url": "https://tanyaclement.github.io/sexton-sweetbriar-1966/events/anne-sexton-class-visit/",
+                  "children": [
+                    {
+                      "text": "This recording of Pulitzer Prize-winning poet Anne Sexton"
+                    }
+                  ]
+                },
+                {
+                  "text": " includes her visit to a class at Sweetbriar College in 1966. The recording is held as part of the Anne Sexton Papers at the Harry Ransom Center at the University of Texas, Austin. It has been published as part of "
+                },
+                {
+                  "type": "link",
+                  "url": "https://tanyaclement.org/",
+                  "children": [
+                    {
+                      "text": "Tanya Clement"
+                    }
+                  ]
+                },
+                {
+                  "text": "'s article on researching Anne Sexton's audio recordings in '"
+                },
+                {
+                  "type": "link",
+                  "url": "https://sites.utexas.edu/ransomcentermagazine/2020/10/08/listen-slow-researching-anne-sexton-putting-poetry-her-way/",
+                  "children": [
+                    {
+                      "text": "Listen Slow: LISTEN SLOW: Researching Anne Sexton putting poetry her way"
+                    }
+                  ]
+                },
+                {
+                  "text": "' in the October 8, 2020 issue of the "
+                },
+                {
+                  "text": "Ransom Center Magazine.",
+                  "italic": true
+                }
+              ]
+            }
+          ],
+          "left": 10
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
@@ -61,7 +115,7 @@
   "created_at": "2025-11-14T20:07:34.115Z",
   "created_by": "tanyaclement",
   "title": "Anne Sexton, Sweetbriar College, 1966",
-  "updated_at": "2025-11-19T18:19:30.116Z",
+  "updated_at": "2025-11-20T19:30:03.482Z",
   "updated_by": "tanyaclement",
   "autogenerate": {
     "enabled": false,
